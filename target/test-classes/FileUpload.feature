@@ -1,3 +1,4 @@
+@Regression
 Feature: File upload on Box site
 
   In order to upload the file on the Box site
