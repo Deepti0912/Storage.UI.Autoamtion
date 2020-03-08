@@ -1,7 +1,7 @@
 # Storage.UI.Autoamtion
-Box Site Automation Framework 
+**Box Site Automation Framework**
 
-https://www.box.com
+**https://www.box.com**
 
 Box site provides secure content management and file sharing facilities
 ========================================================================
@@ -13,11 +13,11 @@ Box site provides secure content management and file sharing facilities
 ========================================================================
 ## Tools and Technologies ##
 
-   *Java                # Programming Language
-  *Cucumber      # BDD-Gherkin
-  *pom.xml          # Maven project build definition, Maven dependencies 
-   *JUnit				#Unit Testing Framework
-   *log4j			    #Logging Framework
+* Java                # Programming Language
+* Cucumber      # BDD-Gherkin
+* pom.xml          # Maven project build definition, Maven dependencies 
+* JUnit				#Unit Testing Framework
+* log4j			    #Logging Framework
    
  ========================================================================
  ## Prerequisites  ##  
