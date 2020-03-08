@@ -1,11 +1,12 @@
 # Storage.UI.Autoamtion
-**Box Site Automation Framework**
+## Box Site Automation Framework ##
 
-**https://www.box.com**
+## https://www.box.com ##
 
 Box site provides secure content management and file sharing facilities
+
 ========================================================================
-## Scope of this Project
+## Scope of this Project##
 
 1. Automate login functionality with happy and unhappy login paths
 2. User with valid login credentials able to create a new folder on the site
