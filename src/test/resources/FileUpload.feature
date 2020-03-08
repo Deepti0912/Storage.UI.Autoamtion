@@ -8,11 +8,16 @@ Feature: File upload on Box site
 
     Given User navigates to the Box website
     When  User enters valid username "qatestingsyd@gmail.com" and password "qatesting123"
-   # Then  User logs in successfully to the site
-   # And   User is able to create a new folder
+    Then  User logs in successfully to the site
+    And   User is able to create a new folder
 
   Scenario: Validate that an user with invalid credentials cannot login to the Box site
 
     Given User navigates to the Box website
     When  User enters valid username "testing@gmail.com" and password "Testing123"
     Then  User logs is unable to login to the site
+
+  Scenario: Validate that an user with valid credentials can upload a file to a folder on the Box site
+    Given User navigates to the Box website
+    When  User enters valid username "qatestingsyd@gmail.com" and password "qatesting123"
+    Then  User is able to upload a file in the folder
